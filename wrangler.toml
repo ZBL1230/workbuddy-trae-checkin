@@ -1,0 +1,7 @@
+name = "workbuddy-trae-checkin"
+main = "worker.js"
+compatibility_date = "2026-10-20"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "7b9980c7fc8c43e2a781d4ad5bb3641a"
